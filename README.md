@@ -110,4 +110,17 @@
     &copy; 2025 Chinni Studio. All Rights Reserved.
   </footer>
 </body>
-
+<footer>
+<!-- Map Section -->
+<div class="map" style="padding: 2rem; text-align: center;">
+  <h2>Find Us</h2>
+  <iframe 
+    src="https://www.google.com/maps?q=8qf8P8HGj8F8wbXu7&output=embed" 
+    width="90%" 
+    height="300" 
+    style="border:0; border-radius: 12px;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
